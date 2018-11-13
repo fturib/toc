@@ -5,8 +5,8 @@ CoreDNS joined CNCF in March 2017 as inception project and graduated as incubati
 
 It has grown significantly over time either as a DNS Server available in Cloud Native environment, either as a key component of Kubernetes project:
 - In Fall 2017, CoreDNS was proposed to become a DNS Discovery Service for Kubernetes.
-- First version as alpha feature was released in v1.09 of Kubernetes,
-- will be considered the “default” DNS Discovery Service for v1.13 - release in Dec 2018
+- First version as alpha feature was released in v1.09 of Kubernetes - Dec 2017
+- CoreDNS is considered the “default” DNS Discovery Service for Kubernetes v1.13 - to be released in Dec 2018
 
 The following application links to the required information to become a graduated project.
 
